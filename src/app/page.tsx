@@ -1,5 +1,6 @@
 import Blogs from "./components/Blogs";
 import Hero from "./components/Hero";
+import NewsLetter from "./components/NewsLetter";
 import Projects from "./components/Projects";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <Hero />
       <Projects />
       <Blogs />
+      <NewsLetter />
     </>
   );
 }
