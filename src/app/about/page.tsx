@@ -8,7 +8,7 @@ const About = () => {
       {/* bio section */}
       <section className="mb-16">
         <p className="text-lg text-secondary max-w-3xl mx-auto text-center">
-          helooo
+          I&apos;m bla bla
         </p>
       </section>
 
