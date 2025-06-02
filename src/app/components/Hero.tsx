@@ -26,7 +26,7 @@ const Hero = () => {
         {...fadeInUp}
         transition={{delay : 0.3}}
         className="text-3xl md:text-5xl font-black mb-6">
-        Hi, I&apos;m bla bla <span className="text-primary">Guney Suleymanova</span>
+        Hi, I&apos;m <span className="text-primary">Guney Suleymanova</span>
         </motion.h1>
 
         <motion.p
