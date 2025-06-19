@@ -13,9 +13,9 @@ const Projects = () => {
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
-        {projects.map((project) => (
+        {projects.map((project, id) => (
           <article
-            key={project.title}
+            key={id}
             className="bg-white dark:bg-dark/50 rounded-lg shadow-md p-6"
           >
             <div className="relative aspect-video mb-4 overflow-hidden rounded-lg">
