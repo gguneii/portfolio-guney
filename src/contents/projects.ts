@@ -38,7 +38,7 @@ export const projects: Project[] = [
         description: 'My personal portfolio website showcasing my projects and skills.',
         technologies: ['Next.js', 'Tailwind CSS', 'TypeScript', 'Framer Motion'],
         githubLink: 'https://github.com/gguneii/portfolio-guney',
-        demoLink: 'https://demo.com',
+        demoLink: 'https://portfolio-guney-lys4.vercel.app/',
         image: '/projects/portfolio.png',
       },
       {
