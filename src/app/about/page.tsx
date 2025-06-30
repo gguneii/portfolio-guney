@@ -11,7 +11,7 @@ const About = () => {
           I&apos;m a front-end developer with a passion for building clean,
           responsive, and user-friendly web interfaces. I have practical
           experience working on real-world projects using HTML, CSS, JavaScript,
-          TypeScript, and modern frameworks like React and Next.js. I'm also
+          TypeScript, and modern frameworks like React and Next.js. I am also
           proficient in Tailwind CSS, which allows me to create consistent and
           efficient UI designs. My goal is always to deliver intuitive,
           accessible, and high-performance web applications that provide a
