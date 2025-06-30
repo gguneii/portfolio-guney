@@ -9,9 +9,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-8">
             <Link href="/" className="text-xl font-bold text-primary">
-              Devfolio&trade;
+              Portfolio&trade;
             </Link>
-            <p className="text-sm text-secondary mt-2"> © {new Date().getFullYear()} DevFolio. All rights reserved. </p>
+            <p className="text-sm text-secondary mt-2"> © {new Date().getFullYear()} All rights reserved. </p>
           </div>
 
           
@@ -24,18 +24,11 @@ const Footer = () => {
             <FaGithub />
           </Link>
           <Link
-            href="www.linkedin.com/in/guney-suleymanova-31265222b"
+            href="https://www.linkedin.com/in/guney-suleymanova-31265222b"
             target="_blank"
             className="text-2xl text-gray-600 dark:text-gray-300 hover:text-primary transition-colors duration-300"
           >
             <FaLinkedin />
-          </Link>
-          <Link
-            href="https://github.com/gguneii"
-            target="_blank"
-            className="text-2xl text-gray-600 dark:text-gray-300 hover:text-primary transition-colors duration-300"
-          >
-            <FaTwitter />
           </Link>
         </div>
         </div>
